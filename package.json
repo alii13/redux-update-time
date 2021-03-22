@@ -1,0 +1,20 @@
+{
+  "name": "redux-update-time",
+  "version": "1.0.0",
+  "description": "A lightweight middleware of redux for logging the store update time difference on console from an action",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "redux",
+    "redux-update-time",
+    "middleware",
+    "redux-middleware"
+  ],
+  "author": "ali",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
