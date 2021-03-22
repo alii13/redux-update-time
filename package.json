@@ -1,6 +1,6 @@
 {
   "name": "redux-update-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight middleware of redux for logging the store update time difference in milliseconds ( upto 12 decimal places precesion) on console from an action",
   "main": "index.js",
   "repository": "alii13/redux-update-time",
