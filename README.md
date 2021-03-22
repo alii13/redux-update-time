@@ -2,7 +2,7 @@
 
 ![redux-update-time](https://socialify.git.ci/alii13/redux-update-time/image?description=1&descriptionEditable=&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
-> A lightweight middleware of redux for logging the store update time difference in milliseconds ( upto .12 precesion) on console from an action
+> A lightweight middleware of redux for logging the store update time difference in milliseconds ( upto 12 decimal places precesion) on console from an action
 
 ## Console View
 ![Console View](https://i.ibb.co/GHHZCKv/redux-Time.png)
